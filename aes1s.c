@@ -1,13 +1,4 @@
-// AES Implementation by X-N2O
-// Started:  15:41:35 - 18 Nov 2009
-// Finished: 20:03:59 - 21 Nov 2009
-// Logarithm, S-Box, and RCON tables are not hardcoded
-// Instead they are generated when the program starts
-// All of the code below is based from the AES specification
-// You can find it at http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
-// You may use this code as you wish, but do not remove this comment
-// This is only a proof of concept, and should not be considered as the most efficient implementation
- 
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
